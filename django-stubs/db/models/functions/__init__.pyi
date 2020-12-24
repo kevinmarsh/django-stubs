@@ -14,6 +14,7 @@ from .text import (
     Trim as Trim,
     Ord as Ord,
     Repeat as Repeat,
+    MD5 as MD5,
     SHA1 as SHA1,
     SHA224 as SHA224,
     SHA256 as SHA256,
